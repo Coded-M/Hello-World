@@ -1,5 +1,8 @@
 # Hello-World
 Newbie 
-Hi GitHubers!
-Mustapha here, i begin to have interest in programming.
-I am here ready to learn and work with beginner like me.
+Hi GitHubers.
+Mustapha here, i begin having interest in programming.
+I am here to learn and work as beginner.
+I wanted to begin with HTML.
+I need advice too on how to build my skill.
+Thank You.
